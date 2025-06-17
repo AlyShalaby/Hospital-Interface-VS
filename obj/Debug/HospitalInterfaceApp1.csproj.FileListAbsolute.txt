@@ -1,0 +1,75 @@
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.csproj.AssemblyReference.cache
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.WelcomePage.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form2.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form3.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form4.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form5.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form6.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form7.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Properties.Resources.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.csproj.GenerateResource.cache
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.csproj.CoreCompileInputs.cache
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\HospitalInterfaceApp1.exe.config
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\HospitalInterfaceApp1.exe
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\HospitalInterfaceApp1.pdb
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.exe
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.pdb
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Keyboard.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.dll
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.Video.dll
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\zxing.dll
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\zxing.presentation.dll
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.xml
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.Video.xml
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\zxing.xml
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\bin\Debug\zxing.presentation.xml
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\Hospital.8A2FC791.Up2Date
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.Form8.resources
+C:\Users\mhagr\source\repos\HospitalInterfaceApp1\HospitalInterfaceApp1\obj\Debug\HospitalInterfaceApp1.KeyboardPin.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.exe.config
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.exe
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.pdb
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\AForge.xml
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\AForge.Video.xml
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\zxing.xml
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\bin\Debug\zxing.presentation.xml
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.AssemblyReference.cache
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form8.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Keyboard.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.KeyboardPin.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.WelcomePage.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form2.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form3.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form4.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form5.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form6.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form7.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Properties.Resources.resources
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.GenerateResource.cache
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.CoreCompileInputs.cache
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\Hospital.8A2FC791.Up2Date
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.exe
+C:\Users\alyts\Downloads\uni work\uni work\HospitalInterfaceApp1 -\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.pdb
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.exe.config
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.exe
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\bin\Debug\HospitalInterfaceApp1.pdb
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.AssemblyReference.cache
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form8.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Keyboard.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.KeyboardPin.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.WelcomePage.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form2.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form3.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form4.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form5.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form6.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Form7.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.Properties.Resources.resources
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.GenerateResource.cache
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.csproj.CoreCompileInputs.cache
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\Hospital.8A2FC791.Up2Date
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.exe
+C:\Users\alyts\source\repos\HospitalInterfaceApp1 -\obj\Debug\HospitalInterfaceApp1.pdb
